@@ -1,0 +1,1 @@
+plt.xlabel('Number of Log Entries')
